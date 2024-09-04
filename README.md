@@ -63,3 +63,32 @@
 5. compute test statistic /P value
 6. conclude hypothesis result
 
+# Mean
+Mean = Sum of all values / Number of values
+
+4,8,6,5,3,9
+
+Sum of all values: 4+8+6+5+3+9=35
+
+Number of values: There are 6 values in the dataset.
+
+Mean = 35 / 6 = 5.83
+
+# SD
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/3a77c781-9d37-4f7e-ab4b-a8ec42469340">
+
+# one sample Z test
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/516f8850-6ab8-4ecc-ab9c-0968f0cbd392">
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/bbf1db28-062c-4047-a57b-6fe2a28ca61e">
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/e8cd3402-f767-4e35-a400-310870878312">
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/1ad0f475-1262-49a4-a8e8-59402a70e451">
+<img width="376" alt="image" src="https://github.com/user-attachments/assets/68dfdc42-0ac0-4d76-8828-02282ae5cf93">
+<img width="369" alt="image" src="https://github.com/user-attachments/assets/0105900a-f9b5-4e01-a0ac-1eb1bcb123db">
+
+
+
+
+
+
+
+
