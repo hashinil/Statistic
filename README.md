@@ -98,7 +98,7 @@ This is a right tail problem when it comes to P value we should 1-value
 
 <img width="588" alt="image" src="https://github.com/user-attachments/assets/904a2998-6c28-4b40-8085-e560337c76a9">
 
-# P value method
+# P value method 
 <img width="134" alt="image" src="https://github.com/user-attachments/assets/7c324d32-ad94-4822-a258-0f63a192e3bd">
 
 <img width="117" alt="image" src="https://github.com/user-attachments/assets/e504dae0-23f9-4f8b-97c6-a3bd92490e4f">
