@@ -26,4 +26,15 @@ WHat is degrees of freedom?
 lets find sample stdev, and sample mean
 - <img width="361" alt="image" src="https://github.com/user-attachments/assets/bca97f64-1e1c-451d-aeb5-fa6f89471b51">
 
+- <img width="136" alt="image" src="https://github.com/user-attachments/assets/668be215-a998-4f48-b302-a048161d1429">
+
+- <img width="114" alt="image" src="https://github.com/user-attachments/assets/4baa5096-0299-4c00-907a-bda87399236d">
+
+- <img width="665" alt="image" src="https://github.com/user-attachments/assets/b2fd3d13-9cf1-421e-9e42-cf144ae1233a">
+
+- <img width="307" alt="image" src="https://github.com/user-attachments/assets/53449572-ee06-42c2-bda0-ceaa35dbf456">
+
+
+
+
 
