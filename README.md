@@ -121,6 +121,17 @@ Here we dont know population standard deviation, so need to use sample standard 
 
 <img width="641" alt="image" src="https://github.com/user-attachments/assets/aff4e4cb-ae77-435b-b945-2d48f6f46fa2">
 
+# Problem 3
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/48cfd526-8196-4666-a104-f2f60ef1ec2e">
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/63b5807a-f7a2-4176-abbd-bf14686db5fd">
+<img width="266" alt="image" src="https://github.com/user-attachments/assets/060612fd-2554-427b-8344-abda200888f1">
+
+
+
+<img width="109" alt="image" src="https://github.com/user-attachments/assets/d8d3a870-13e4-42bb-8464-cea5e99e8fc5">
+
+
+
 
 
 
